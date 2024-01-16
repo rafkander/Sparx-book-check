@@ -16,7 +16,7 @@ Launch your web browser.
 
 Access Extensions:
 
-      **For Chrome:** Navigate to chrome://extensions/.  ** For Edge:** Navigate to edge://extensions/.  **For Opera:** Navigate to opera://extensions/.    **For Chrome:** 
+ **For Chrome:** Navigate to chrome://extensions/.  ** For Edge:** Navigate to edge://extensions/.  **For Opera:** Navigate to opera://extensions/.   
 
 Enable Developer Mode:
 
