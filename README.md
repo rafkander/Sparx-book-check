@@ -2,8 +2,6 @@ Installation Steps for SparxSolver Browser Extension:
 
 Download the Extension:
 
-Visit the Latest Release page.
-
 Download the extension.zip file.
 
 Extract the Zip File:
@@ -12,9 +10,7 @@ Unzip the downloaded file to a location convenient for you, such as your desktop
 
 Open Your Browser:
 
-Launch your web browser.
-
-Access Extensions:
+Access Extensions Page:
 
  **For Chrome:** Navigate to chrome://extensions/.  ** For Edge:** Navigate to edge://extensions/.  **For Opera:** Navigate to opera://extensions/.   
 
