@@ -1,4 +1,23 @@
-Installation Steps for SparxSolver Browser Extension:
+
+
+
+  ✨ Features ✨
+
+Bookwork-code bypass
+
+Stores answers (so you don't need to write them down)
+
+Automatically highlights the correct bookwork check answer
+
+
+![bookwork-code](https://github.com/rafkander/Sparx-book-check/assets/150948247/d42074b1-92ef-4e4d-bd51-d0223bbb2dcc)
+
+
+
+
+
+
+  Installation Steps for SparxSolver Browser Extension:
 
 Download the Extension:
 
